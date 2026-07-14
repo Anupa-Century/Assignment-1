@@ -22,7 +22,7 @@ header{
 
 .navbar{
     width:90%;
-    height:80px;
+    height:100px;
     margin:auto;
     display:flex;
     justify-content:space-between;
@@ -30,7 +30,7 @@ header{
 }
 
 .logo img{
-    height:85px;
+    height:75px;
 }
 
 .menu{
@@ -81,7 +81,7 @@ header{
 
 .hero{
     width:100%;
-    height:90vh;
+    height:100vh;
     margin-top:80px;
     position:relative;
 
